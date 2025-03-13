@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Project name: Splash Screen
+  ~ Created by: Suman Kumar Dey
+  ~ Copyright(c)$ today.year. All rights reserved.
+  ~ Linkedln: www.linkedin.com/in/suman1040
+  -->
+
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

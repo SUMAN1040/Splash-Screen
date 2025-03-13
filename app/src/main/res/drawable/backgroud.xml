@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Project name: Splash Screen
+  ~ Created by: Suman Kumar Dey
+  ~ Copyright(c)$ today.year. All rights reserved.
+  ~ Linkedln: www.linkedin.com/in/suman1040
+  -->
+
+<shape android:shape="rectangle" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <gradient android:startColor="#CED6A0" android:endColor="#B5D3D6" android:angle="70"/>
+
+</shape>

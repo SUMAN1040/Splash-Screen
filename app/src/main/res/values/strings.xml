@@ -1,0 +1,10 @@
+<!--
+  ~ Project name: Splash Screen
+  ~ Created by: Suman Kumar Dey
+  ~ Copyright(c)$ today.year. All rights reserved.
+  ~ Linkedln: www.linkedin.com/in/suman1040
+  -->
+
+<resources>
+    <string name="app_name">Splash Screen</string>
+</resources>
